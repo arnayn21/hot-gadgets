@@ -1,0 +1,38 @@
+.c{
+    color: gray;  
+}
+.sizee{
+    padding: 200px 200px;
+}
+.buy{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 10px;
+    padding: 5px 25px;
+    border: none;
+}
+.card-title{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px 5px  lightgray;
+    border-radius: 10px;
+}
+.q{
+    color:orange;
+    border: none;
+    background-color: white;
+}
+.center img{
+    
+    border-radius: 10px;
+    padding: 5px 25px;
+    box-shadow: 5px 5px 5px 5px  lightgray;
+}
+.t img{
+    border-radius: 10px;
+    padding: 5px 25px;
+    box-shadow: 5px 5px 5px 5px  lightgray;
+}
+
